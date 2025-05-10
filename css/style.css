@@ -3,18 +3,33 @@ body {
     background-color: #70809970;
 }
 
-.page-header {
-    font-family: "Brush Script MT", sans-serif;
-    font-size: 60px;
-    text-align: center;
+.card {
+    display: block;
+    width: 500px;
+    margin: 0 auto;
 }
 
-.link {
+.links {
+    display: block;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+button {
+    background-color: rgb(195, 253, 255);
+    font-size: large;
+    display: block;
+    margin: 5px auto;
+}
+
+.page-header {
+    font-family: "Brush Script MT", sans-serif;
+    font-size: 50px;
     text-align: center;
+    margin: 10px;
 }
 
 .recipe-image {
-    display: block;
     margin: auto;
     height: auto;
     width: 500px;
