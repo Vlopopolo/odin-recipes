@@ -1,0 +1,33 @@
+* {
+    color: silver;
+    background-color: rgba(0, 109, 117, 50);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+    text-align: left;
+
+}
+
+img {
+    height: auto;
+    width: 600
+}
+
+h1 {font-size: 50px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.button,
+.home {
+    font-weight: 700;
+    color: blue;
+}
