@@ -1,10 +1,17 @@
-* {
+/* * {
     color: silver;
     background-color: rgba(0, 109, 117, 50);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 22px;
     text-align: left;
+} */
 
+* {
+    color: greenyellow;
+    background: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 22px;
+    text-align: left;
 }
 
 img {
